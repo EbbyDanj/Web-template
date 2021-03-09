@@ -30,7 +30,7 @@
 		</div>
 	</div>
 
-	<!-- Intro -->
+	<!-- Intro section-->
 
 	<div class="intro">
 		<div class="container">
